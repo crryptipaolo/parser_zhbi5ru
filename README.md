@@ -1,1 +1,1 @@
-# parser_zhbi5ru
+Parser zhbi5.ru
